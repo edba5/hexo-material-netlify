@@ -9,7 +9,7 @@
     "start": "hexo serve"
   },
   "dependencies": {
-    "hexo": "3.9.0",
+    "hexo": "5.4.0",
     "hexo-generator-multilingual-archive": "0.2.0",
     "hexo-generator-category": "1.0.0",
     "hexo-generator-index-i18n": "0.2.1",
